@@ -1,0 +1,21 @@
+{
+  "name": "mehub-dashboard",
+  "version": "1.0.0",
+  "description": "#### Description 各类大屏展示模板持续更新中...",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/lvyeyou/DaShuJuZhiDaPingZhanShi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
