@@ -1,7 +1,7 @@
-# 大屏数据展示
+# 报告数据展示列表
 
 #### 介绍
-各类大屏展示模板持续更新中...
+各类行业分析报告持续更新中...
 
 ![智慧物流](https://images.gitee.com/uploads/images/2019/0614/130751_e439728b_2327318.png "智慧物流.png")
 ![舆情分析](https://images.gitee.com/uploads/images/2019/0614/130021_887dc34c_2327318.png "舆情分析.png")
@@ -11,6 +11,3 @@
 ![环境监测](https://images.gitee.com/uploads/images/2019/0614/130316_9bfc9ac7_2327318.png "环境监测.png")
 ![电子商务](https://images.gitee.com/uploads/images/2019/0614/130335_a60a9904_2327318.png "电子商务.png")
 ![智慧交通](https://images.gitee.com/uploads/images/2019/1226/025508_8a651c15_2327318.png "智慧交通.png")
-
-
-### 收集不易，劳烦各位star：）
